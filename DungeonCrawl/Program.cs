@@ -11,6 +11,7 @@ namespace DungeonCrawl
 {
     class Program
     {
+        //je v tom pěknej nepořádek :P
         enum EPhaseOfGame
         {
             Map,
