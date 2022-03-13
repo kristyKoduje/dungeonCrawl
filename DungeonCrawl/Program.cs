@@ -22,8 +22,6 @@ namespace DungeonCrawl
         static void Main(string[] args)
         {
             EPhaseOfGame phaseOfGame = EPhaseOfGame.Map;
-
-
             Player player = new Player("Pepa", 10, 10, 2, new Point(1, 2), 1, null, null);
 
             Map map = new Map();
